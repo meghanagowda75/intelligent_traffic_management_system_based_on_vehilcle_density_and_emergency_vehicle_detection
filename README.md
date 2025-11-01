@@ -33,5 +33,3 @@ Traditional traffic systems use fixed timers that fail to adapt to changing traf
 5. Emergency lanes are immediately prioritized.  
 
 ---
-
-## 🗂️ Folder Structure
